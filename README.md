@@ -1,6 +1,6 @@
 # SAE3.02 - Développer des applications communicantes
 
-# T1b021 research
+## T1b021 research
 
 Client/server document search for SAE 302.
 The server indexes text, HTML, PDF and Excel files in the `documents/` folder, and the graphical client sends queries and displays the results.[2]
